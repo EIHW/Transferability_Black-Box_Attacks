@@ -32,5 +32,9 @@ Zhao Ren, Jing Han, Nicholas Cummins, and Björn W. Schuller. "Enhancing Transfe
 
 
 
+Zhao Ren
 
+Chair of Embedded Intelligence for Health Care and Wellbeing
+
+University of Augsburg, Germany
 

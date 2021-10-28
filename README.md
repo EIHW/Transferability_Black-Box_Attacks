@@ -8,8 +8,11 @@ The implementations of the three frameworks: multitask learning, transfer learni
 
 demos-multitask/demos-cnn: the implementation of the multitask learning
 
-demos-lifelong-transfer/demos-cnn: the implementation of the lifelong learning and transfer learning. The difference between lifelong learning and transfer learning is using EWC loss function (Equation (3) in the paper). Please remove the EWC loss function in the file demos-lifelong-transfer/demos-cnn/pytorch/main_pytorch.py
+demos-lifelong-transfer/demos-cnn: the implementation of the lifelong learning and transfer learning. 
 
+The difference between lifelong learning and transfer learning is using EWC loss function (Equation (3) in the paper). 
+If transfer learning, please remove the EWC loss function in the file demos-lifelong-transfer/demos-cnn/pytorch/main_pytorch.py 
+If lifelong learning, please keep the EWC loss function in the same file  
 
 ## Feature Extraction
 

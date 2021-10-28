@@ -19,9 +19,11 @@ For each framework, please run command: python utils/features.py
 
 For each framework, please run command: sh runme.sh
 
+## Cite
 
+If the code is helpful for you, please feel free to cite it: 
 
-
+Zhao Ren, Jing Han, Nicholas Cummins, and Björn W. Schuller. "Enhancing Transferability of Black-Box Adversarial Attacks via Lifelong Learning for Speech Emotion Recognition Models." in Proc. INTERSPEECH, Shanghai, China, 2020, pp. 496-500.
 
 
 
